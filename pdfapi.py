@@ -63,8 +63,7 @@ def get_books_arr(book_name):
             'year':book_year,
             'pages':book_pages,
             'downloads':book_downloads
-             }
-        )
+            })
         
     return book_links
 
